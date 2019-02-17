@@ -1,0 +1,28 @@
+@charset "utf-8";
+
+body {
+	background-color: #E3E3E3	;
+	margin: 2%;
+	margin-top: 5%;
+}
+
+.title {
+	text-align: center;
+}
+
+.box {
+	background: #F5F5F5;
+	padding: 20px;
+	border-radius: .5em;
+	margin-right: 55%;
+}
+
+.result {
+	color: #5C5C5C;
+}
+
+a {
+	font-size: 24px;
+	line-height: 30px;
+}
+
